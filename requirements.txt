@@ -1,5 +1,5 @@
 virtualenv
-pytest
+pytest>=3.6
 pytest-cov
 coverage
 codecov
